@@ -12,22 +12,19 @@ This repository showcases an end-to-end Data & Business Intelligence solution le
 
 ---
 
-## 📊 Power BI Dashboards Overview
+##  Power BI Dashboards Overview
 
 ### 1. AdventureWorks Sales & Operations Performance
-![AdventureWorks Dashboard Preview](power_bi/adventureworks_preview.png)
 * **Dataset:** Microsoft AdventureWorks2019 Enterprise Database
 * **Focus:** Executive KPI tracking, category profit margins, customer lifetime value, and regional territory revenue contribution.
 * **Key DAX Metrics:** `Total Revenue`, `Total Profit Margin %`, `YoY Growth %`, and `YTD Sales`.
 
 ### 2. DA-100 / PL-300 Enterprise Sales Analytics
-![DA-100 Dashboard Preview](power_bi/da100_preview.png)
 * **Dataset:** Official Microsoft DA-100/PL-300 Exam Standard Dataset
 * **Focus:** Data modeling (Star Schema), role-based access logic, sales quota comparisons, and product subcategory analysis.
 * **Key Features:** Time intelligence calculations, drill-through functionality, and dynamic target tracking.
 
 ### 3. VanArsdel Market Share & Competitor Analysis (Dashboard in a Day)
-![VanArsdel DIAD Preview](power_bi/vanarsdel_preview.png)
 * **Dataset:** Microsoft DIAD (Dashboard in a Day - VanArsdel Growth Analysis)
 * **Focus:** Industry competitor product positioning, and regional penetration trends for VanArsdel vs. competitors.
 * **Key Features:** Custom calendar tables, and dynamic trend analysis.
