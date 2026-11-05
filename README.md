@@ -1,7 +1,7 @@
 # AdventureWorks-Sales-Analysis
 
 ##  Executive Summary
-This repository showcases an end-to-end Data & Business Intelligence solution leveraging enterprise-grade datasets (**AdventureWorks2019**, **Microsoft DA-100/PL-300**, and **VanArsdel / Dashboard in a Day**). The portfolio highlights a robust SQL analytics pipeline alongside three specialized Power BI dashboards designed to drive executive-level decision-making across product performance, customer segmentations, and global sales trends.
+This repository showcases an Data solution leveraging enterprise-grade datasets (**AdventureWorks2019**, **Microsoft DA-100/PL-300**, and **VanArsdel / Dashboard in a Day**). The portfolio highlights a robust SQL analytics pipeline alongside three specialized Power BI dashboards designed to drive executive-level decision-making across product performance, customer segmentations, and global sales trends.
 
 ---
 
