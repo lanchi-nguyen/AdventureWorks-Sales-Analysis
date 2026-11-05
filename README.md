@@ -8,7 +8,7 @@ This repository showcases an Data solution leveraging enterprise-grade datasets 
 ##  Tech Stack & Methods
 * **SQL Server (T-SQL):** Data exploration, missing data auditing, multi-table JOINs, set operators (EXCEPT, UNION), multi-level CTEs, advanced Window Functions (NTILE, ROWS BETWEEN), Views, UDFs, and Stored Procedures.
 * **Power BI Desktop & DAX:** Star Schema Data Modeling, Time Intelligence (YTD, YoY Growth, Cumulative Revenue), Dynamic Slicing, RLS (Row-Level Security), and Interactive Dashboard Design.
-* **Microsoft Excel:** Data inspection, initial data cleansing, and tabular cross-verification.
+* **Microsoft Excel:** Data inspection, and initial data cleansing.
 
 ---
 
